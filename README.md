@@ -30,7 +30,7 @@ All the code for the project can be found in the [Notebooks](./Notebooks) folder
 
 ### Tableau Link
 
-[https://public.tableau.com/app/profile/gautam.naik/viz/SalesForecasting_17373524705280/SalesForecasting](https://public.tableau.com/app/profile/saurabh.deshetti/viz/SalesForecasting_17561374795110/SalesForecasting)
+[https://public.tableau.com/app/profile/saurabh.deshetti/viz/SalesForecasting_17561374795110/SalesForecasting](https://public.tableau.com/app/profile/saurabh.deshetti/viz/SalesForecasting_17561374795110/SalesForecasting)
 
 ### GitHub Repository
 
