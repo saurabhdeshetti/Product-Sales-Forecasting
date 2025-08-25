@@ -38,7 +38,7 @@ All the code for the project can be found in the [Notebooks](./Notebooks) folder
 
 ### Blog Link
 
-[https://www.youtube.com/watch?v=_q-_W6A3754&ab_channel=GautamNaik](https://medium.com/@saurabhdeshetti/sales-forecasting-the-secret-to-never-running-out-of-your-best-sellers-e8129fee21c8)]
+[https://medium.com/@saurabhdeshetti/sales-forecasting-the-secret-to-never-running-out-of-your-best-sellers-e8129fee21c8](https://medium.com/@saurabhdeshetti/sales-forecasting-the-secret-to-never-running-out-of-your-best-sellers-e8129fee21c8)
 
 ### Portfolio Link
 
